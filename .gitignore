@@ -1,0 +1,11 @@
+# Ignore all class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore the target directory (for Maven projects)
+target/
+
+# Ignore the build directory (for Gradle projects)
+build/
